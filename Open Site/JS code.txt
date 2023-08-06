@@ -1,0 +1,17 @@
+alert("Welcome to the Open Site!");
+alert("Im a Fenix!");
+
+function onClickButton() {
+  confirm("Перейдти по ссылке?");
+  window.location = 'https://t.me/+an_k4NesPBk3OGFi';
+}
+
+function onClick() {
+  confirm("Перейдти по ссылке?");
+  window.location = 'https://youtube.com/@0fenix';
+}
+
+function onButton() {
+  confirm("Перейдти по ссылке?");
+  window.location = 'https://github.com/NoneFeLiX';
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Open site</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+  <script src="js/main.js"></script>
+<div class="h1">  
+  <h1>Open site</h1>
+</div>
+<div class="text">
+  <p>This site is designed to help novice programmers. The code is open, you can copy it. Good luck to you, Young Programmer!</p>  
+</div>
+<br>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.G_MCaCrULraDyNmdt30kZgHaE8%26pid%3DApi&f=1&ipt=9f908731aec32056b6b6809142eff9c06da3591fbb2e35fb8474b181fbce69df&ipo=images" height="550px" width="1200px">
+<br>
+<button onclick="onClickButton()">Подписаться на наш канал в Telegram</button>
+<button onclick="onClick()">Подписаться на нан канал в YouTube</button>
+<button onclick="onButton()">Подписаться на наш канал в GitHub</button>
+</body>
+</html>
