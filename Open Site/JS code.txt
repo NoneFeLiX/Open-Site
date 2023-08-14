@@ -3,7 +3,7 @@ alert("Im a Fenix!");
 
 function onClickButton() {
   confirm("Перейдти по ссылке?");
-  window.location = 'https://t.me/+an_k4NesPBk3OGFi';
+  window.location = 'https://t.me/+Jmr-nooCCBE0ZmZi';
 }
 
 function onClick() {
